@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: linear-gradient(90deg, #0f2027, #203a43, #2c5364);
+    color: #fff;
+  }
+  
+  .navbar-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .navbar-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ddd;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-links a:hover {
+    color: #00c9ff;
+  }
+  

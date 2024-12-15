@@ -1,0 +1,173 @@
+/* Global Styles */
+.home {
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background: linear-gradient(120deg, #2c5364, #203a43, #0f2027);
+    padding: 80px 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('C:\Users\deepv\Downloads\hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.3;
+  }
+  
+  .hero-content {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  .hero p {
+    font-size: 1.3rem;
+    margin-bottom: 40px;
+  }
+  
+  .cta-button {
+    padding: 15px 30px;
+    background: #00c9ff;
+    color: #fff;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background: #3f51b5;
+  }
+  
+  /* Features Section */
+  .features {
+    background: linear-gradient(120deg, #1f4037, #99f2c8);
+    padding: 50px 20px;
+  }
+  
+  .features h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .feature-card {
+    background: #333;
+    padding: 30px;
+    border-radius: 10px;
+    width: 300px;
+    transition: all 0.3s ease;
+  }
+  
+  .feature-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .feature-card img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .feature-card h3 {
+    font-size: 1.7rem;
+    margin-top: 15px;
+  }
+  
+  .feature-card p {
+    font-size: 1.1rem;
+    margin-top: 10px;
+  }
+  
+  /* Gadget Gallery Section */
+  .gallery {
+    padding: 50px 20px;
+    background: #2c5364;
+  }
+  
+  .gallery h2 {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+  }
+  
+  .gallery-grid {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .gallery-item {
+    width: 250px;
+    text-align: center;
+    background: #333;
+    border-radius: 10px;
+    padding: 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .gallery-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .gallery-item img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .gallery-item h3 {
+    font-size: 1.5rem;
+    margin-top: 15px;
+  }
+  
+  /* Call to Action Section */
+  .cta-section {
+    background: #203a43;
+    padding: 50px 20px;
+  }
+  
+  .cta-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    padding: 15px 30px;
+    background: #00c9ff;
+    color: #fff;
+    border: none;
+    font-size: 1.3rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background: #3f51b5;
+  }
+  

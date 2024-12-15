@@ -1,0 +1,133 @@
+.contact-us {
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+  }
+  
+  .contact-form-section {
+    background: linear-gradient(120deg, #2c5364, #203a43, #0f2027);
+    padding: 50px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .contact-form-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form-section p {
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+  }
+  
+  .contact-form input, .contact-form textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background: #2b2b2b;
+    color: #fff;
+    font-size: 1rem;
+  }
+  
+  .contact-form textarea {
+    resize: vertical;
+    min-height: 150px;
+  }
+  
+  .cta-button {
+    padding: 10px 20px;
+    background: #00c9ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background: #3f51b5;
+  }
+  
+  /* Contact Information Section */
+  .contact-info-section {
+    padding: 50px 20px;
+    background: linear-gradient(120deg, #1f4037, #99f2c8);
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+  
+  .contact-info-section h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .contact-channel {
+    background: #333;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    text-align: center;
+  }
+  
+  .contact-channel h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .contact-channel p {
+    font-size: 1.1rem;
+  }
+  
+  .contact-channel a {
+    color: #00c9ff;
+    text-decoration: none;
+    margin: 0 5px;
+    transition: color 0.3s ease;
+  }
+  
+  .contact-channel a:hover {
+    color: #3f51b5;
+  }
+  
+  /* Map Section */
+  .map-section {
+    padding: 50px 20px;
+    background: linear-gradient(120deg, #2c5364, #203a43, #0f2027);
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .map-section h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .map-placeholder {
+    background: #333;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 1.2rem;
+  }
+  
+  .map-placeholder p {
+    text-align: center;
+  }
+  

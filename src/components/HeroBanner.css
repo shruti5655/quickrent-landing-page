@@ -1,0 +1,27 @@
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: white;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .hero-content {
+    margin-top: 50px;
+  }
+  
+  .hero-content h2 {
+    font-size: 3rem;
+  }
+  
+  .hero-content p {
+    margin: 20px 0;
+    font-size: 1.2rem;
+  }
+  
