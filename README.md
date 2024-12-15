@@ -14,3 +14,6 @@ The landing page was built using **React.js** to create a dynamic and responsive
 2. **Navigate into the project folder**:
    ```bash
    cd quickrent-landing-page
+3. **Install dependencies**:
+   ```bash
+   npm install
