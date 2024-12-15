@@ -20,3 +20,11 @@ The landing page was built using **React.js** to create a dynamic and responsive
 4. **Start the project**:
    ```bash
    npm start
+   
+## Screenshots
+
+Here are some screenshots of the landing page:
+
+![Home Page Screenshot](./images/screenshot1.png)
+![Features Page Screenshot](./images/screenshot2.png)
+![Contact Us Page Screenshot](./images/screenshot3.png)
