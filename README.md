@@ -11,3 +11,14 @@ The landing page was built using **React.js** to create a dynamic and responsive
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/shruti5655/quickrent-landing-page.git
+2. **Navigate into the project folder: Change to the project directory**:
+```bash
+   cd quickrent-landing-page
+3. **Install dependencies: Install the required dependencies by running**:
+```bash
+   npm install
+4. **Start the project: Once the dependencies are installed, run the project with**:
+```bash
+   npm start
+5. **The project will now be running locally at http://localhost:3000.**
+
