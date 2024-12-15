@@ -10,4 +10,4 @@ The landing page was built using **React.js** to create a dynamic and responsive
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/quickrent-landing-page.git
+   git clone https://github.com/shruti5655/quickrent-landing-page.git
