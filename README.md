@@ -17,3 +17,6 @@ The landing page was built using **React.js** to create a dynamic and responsive
 3. **Install dependencies**:
    ```bash
    npm install
+4. **Start the project**:
+   ```bash
+   npm start
