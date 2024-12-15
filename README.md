@@ -15,6 +15,6 @@ The landing page was built using **React.js** to create a dynamic and responsive
 
 Here are some screenshots of the landing page:
 
-![Home Page Screenshot](./images/screenshot1.png)
-![Features Page Screenshot](./images/screenshot2.png)
-![Contact Us Page Screenshot](./images/screenshot3.png)
+![Home Page Screenshot](./images/screenshot1.jpg)
+![Features Page Screenshot](./images/screenshot2.jpg)
+![Contact Us Page Screenshot](./images/screenshot3.jpg)
